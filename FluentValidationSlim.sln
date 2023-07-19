@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentValidationSlim", "FluentValidationSlim\FluentValidationSlim.csproj", "{598BAAC2-4CF8-44C6-9789-9CA9FD7E1A4D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{6048B740-6596-4598-9E5D-1F3C230940ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentValidationSlim.Examples", "FluentValidationSlim.Examples\FluentValidationSlim.Examples.csproj", "{3D790229-D5A2-4AD7-9456-051518E712FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,10 @@ Global
 		{598BAAC2-4CF8-44C6-9789-9CA9FD7E1A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{598BAAC2-4CF8-44C6-9789-9CA9FD7E1A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{598BAAC2-4CF8-44C6-9789-9CA9FD7E1A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D790229-D5A2-4AD7-9456-051518E712FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D790229-D5A2-4AD7-9456-051518E712FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D790229-D5A2-4AD7-9456-051518E712FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D790229-D5A2-4AD7-9456-051518E712FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
