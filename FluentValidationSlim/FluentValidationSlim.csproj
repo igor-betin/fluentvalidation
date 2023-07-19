@@ -10,7 +10,7 @@
     <Version>0.1.0</Version>
 
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <PackageId>N3.Fhir.CommonLib</PackageId>
+    <PackageId>FluentValidationSlim</PackageId>
     <Authors>Igor Betin</Authors>
     <Company>Igor Betin</Company>
     <Product>FluentValidationSlim</Product>
